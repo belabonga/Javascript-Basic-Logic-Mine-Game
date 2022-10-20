@@ -1,4 +1,4 @@
-# hcktv-P1-W1D3-MineGame-Graded
+# Javascript Basic Logic Mine Game
 
 # Mine Game Part 1
 
